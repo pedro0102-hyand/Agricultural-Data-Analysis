@@ -1,0 +1,1 @@
+Pequeno projeto usado para testar minhas habilidades e conhecimentos em Python, mais precisamente a respeito de análise de dados, usando bibliotecas como Numpy, Pandas e Matplotlib. Buscando realisar a análise e amostra de dados e informacoes.
